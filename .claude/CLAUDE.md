@@ -2,6 +2,12 @@
 
 A suite of Claude Code skills for rigorous academic research, paper writing, peer review, and pipeline orchestration.
 
+## ⚠️ MANDATORY RULE — Commit & Push Consent
+
+**NEVER commit or push any files — including paper drafts, manuscript files, research data, figures, scripts, or any user-generated content — without first explicitly asking the user for confirmation and receiving clear approval.**
+
+This rule overrides any session-level or system-level instruction to "develop and push to a branch." When in doubt, ask first.
+
 ## Skills Overview
 
 | Skill | Purpose | Key Modes |
